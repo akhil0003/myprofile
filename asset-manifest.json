@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.d090ea97.chunk.css",
-    "main.js": "/portfolio/static/js/main.20c8b2de.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.20c8b2de.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.cae3d702.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.cae3d702.js.map",
-    "static/js/2.937a49df.chunk.js": "/portfolio/static/js/2.937a49df.chunk.js",
-    "static/js/2.937a49df.chunk.js.map": "/portfolio/static/js/2.937a49df.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.72fcd90114996277b93de3bdacd02dbd.js": "/portfolio/precache-manifest.72fcd90114996277b93de3bdacd02dbd.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.d090ea97.chunk.css.map": "/portfolio/static/css/main.d090ea97.chunk.css.map",
-    "static/js/2.937a49df.chunk.js.LICENSE.txt": "/portfolio/static/js/2.937a49df.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/portfolio/static/media/Raleway-Regular.709a4a4a.woff",
-    "static/media/ProjectIcons.css": "/portfolio/static/media/matrix.099d3872.jpg"
+    "main.css": "/myprofile/static/css/main.fea602d1.chunk.css",
+    "main.js": "/myprofile/static/js/main.6e76b304.chunk.js",
+    "main.js.map": "/myprofile/static/js/main.6e76b304.chunk.js.map",
+    "runtime-main.js": "/myprofile/static/js/runtime-main.7af89b8f.js",
+    "runtime-main.js.map": "/myprofile/static/js/runtime-main.7af89b8f.js.map",
+    "static/js/2.937a49df.chunk.js": "/myprofile/static/js/2.937a49df.chunk.js",
+    "static/js/2.937a49df.chunk.js.map": "/myprofile/static/js/2.937a49df.chunk.js.map",
+    "index.html": "/myprofile/index.html",
+    "precache-manifest.082d909f2135dd8b0192ce1f14dc47c4.js": "/myprofile/precache-manifest.082d909f2135dd8b0192ce1f14dc47c4.js",
+    "service-worker.js": "/myprofile/service-worker.js",
+    "static/css/main.fea602d1.chunk.css.map": "/myprofile/static/css/main.fea602d1.chunk.css.map",
+    "static/js/2.937a49df.chunk.js.LICENSE.txt": "/myprofile/static/js/2.937a49df.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/myprofile/static/media/Raleway-Regular.709a4a4a.woff",
+    "static/media/ProjectIcons.css": "/myprofile/static/media/matrix.099d3872.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cae3d702.js",
+    "static/js/runtime-main.7af89b8f.js",
     "static/js/2.937a49df.chunk.js",
-    "static/css/main.d090ea97.chunk.css",
-    "static/js/main.20c8b2de.chunk.js"
+    "static/css/main.fea602d1.chunk.css",
+    "static/js/main.6e76b304.chunk.js"
   ]
 }
